@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shino</h1>
 <h3 align="center">Android Reverse Engineering Beginner / CTFer @Nu1LCTF</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinoleah&label=Profile%20views&color=0e75b6&style=flat" alt="shinoleah" /> </p>
-
 - 🔭 I’m currently working on [eDBG](https://github.com/ShinoLeah/eDBG)
 
 - 🌱 I’m currently learning **Android Reverse Engineering**
